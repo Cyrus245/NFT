@@ -1,0 +1,113 @@
+   .attribution {
+       font-size: 11px;
+       text-align: center;
+       color: burlywood;
+   }
+
+   .attribution a {
+       color: hsl(0, 94%, 52%);
+   }
+
+
+
+
+   * {
+
+       margin: 0;
+       padding: 0;
+
+   }
+
+
+   body {
+
+       background-color: #041C32;
+   }
+
+   .card {
+
+       margin: 50px auto 50px;
+
+   }
+
+   .card-title {
+
+       color: #98BAE7;
+
+
+   }
+
+   .card-p {
+
+       color: #B8E4F0;
+       font-family: 'Montserrat',
+           sans-serif;
+       font-size: 12px;
+   }
+
+
+
+   .dcd {
+
+       background-color: #04293A;
+   }
+
+   .vh {
+
+       color: #B1D0E0;
+       font-weight: 400;
+       font-size: 12px;
+       font-family: 'Montserrat',
+           sans-serif;
+
+       display: inline;
+
+
+   }
+
+   .time {
+       color: #B1D0E0;
+       font-weight: 400;
+       font-size: 12px;
+       font-family: 'Montserrat',
+           sans-serif;
+
+       display: inline;
+
+       margin-left: 70px;
+   }
+
+   /* .horizontal-rule {
+
+       color: #B1D0E0;
+
+
+   } */
+
+   .avatar {
+
+       height: 30px;
+       border-radius: 25px;
+
+   }
+
+   .avatar-text {
+
+       color: white;
+       font-size: 12px;
+       display: inline;
+       margin-left: 10px;
+
+   }
+
+   span {
+
+       color: #a2b6c9;
+   }
+
+   hr {
+
+       border-top: 1px solid gray;
+
+
+   }
